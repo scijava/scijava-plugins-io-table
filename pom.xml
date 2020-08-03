@@ -10,7 +10,7 @@
 	</parent>
 
 	<artifactId>scijava-plugins-io-table</artifactId>
-	<version>0.3.0-SNAPSHOT</version>
+	<version>0.3.0</version>
 
 	<name>SciJava IO Plugin: Tables</name>
 	<description>I/O plugins for SciJava table objects.</description>
@@ -75,7 +75,7 @@
 	<scm>
 		<connection>scm:git:git://github.com/scijava/scijava-plugins-io-table</connection>
 		<developerConnection>scm:git:git@github.com:scijava/scijava-plugins-io-table</developerConnection>
-		<tag>HEAD</tag>
+		<tag>scijava-plugins-io-table-0.3.0</tag>
 		<url>https://github.com/scijava/scijava-plugins-io-table</url>
 	</scm>
 	<issueManagement>
